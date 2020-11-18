@@ -1,7 +1,21 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+******************************************************************************************************
+******************************************************************************************************
 
+
+pasos:
+- crear una carpeta para el proyecto
+dentro de esta:
+- npm install -g create-react-app
+ reemplazar los archivos descargados dentro de la carpeta de la aplicacion antes creada
+- npm install react-redux
+- npm install @material-ui/core
+- npm install puppeteer
+
+*****************************************************************************************************
+******************************************************************************************************
 ## Available Scripts
 
 In the project directory, you can run:
